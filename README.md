@@ -2,7 +2,7 @@
 
 Java (Maven) application for tracking time on the job
 
-## Purpose
+## Purpose for playing
 
 Simple Java-app using Maven.
 
